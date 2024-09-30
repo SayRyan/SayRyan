@@ -1,7 +1,15 @@
 <h1>Olá, meu nome é Ryan! <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h1>
 
+<div>
+  <ul>
+    <li>Atualmente faço graduação de Desenvolvimento de Software Multiplataforma</li>
+    <li>Fatec Matão - Luiz Marchesan</li>
+    <li>Trabalho como Operador 1 na TecPolpa🌱</li>
+  </ul>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayRyan&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=2c5b42&title_color=aacb1a&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0a0f0b&title_color=aacb1a&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)
 
 
 
