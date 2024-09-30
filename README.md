@@ -9,8 +9,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayRyan&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0a0f0b&title_color=aacb1a&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)
-
+<img src="https://agenciacontato.com.br/wp-content/uploads/2022/02/giphy-3.gif" width="300" height="200" align="right" />
 
 
 <div>
