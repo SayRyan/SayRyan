@@ -4,7 +4,7 @@
   <ul>
     <li>Atualmente faço graduação de Desenvolvimento de Software Multiplataforma</li>
     <li>Fatec Matão - Luiz Marchesan</li>
-    <li>Trabalho como Operador 1 na TecPolpa🌱</li>
+    <li>Pretendo ter a minha primeira oportunidade como programador</li>
   </ul>
 </div>
 
